@@ -3,4 +3,4 @@ Chinese is great.
 
 什么鬼啊
 
-create a good god
+玩我啊
