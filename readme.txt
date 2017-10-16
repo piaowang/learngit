@@ -10,3 +10,4 @@ Chinese is great.
 
 
 >>>>>>> featurs1
+这是主分支测试
